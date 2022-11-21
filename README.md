@@ -1,14 +1,13 @@
 # TugasPemograman9
 
 
+### Tampilan PROGRAM
+
+![](/SS/2022-11-18%20(1).png)
 
 
 
-![](/main/SS/2022-11-18%20(1).png)
 
 
 
-
-
-
-![](/main/SS/2022-11-18.png)S
+![](/SS/2022-11-18.png)S
